@@ -1,7 +1,7 @@
 # Installation For Dummies
 Currently only tested on Chromium browsers
 
-## 1. Unzip File
+### 1. Unzip File
 Unzip the file included in release
 ## 2. Manage Extensions
 This can be found at *chrome://extensions/*
