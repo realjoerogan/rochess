@@ -9,5 +9,6 @@ This can be found at *chrome://extensions/*
 Toggle the developer mode switch in the top right
 ### 4. Load Unpacked Extension
 Load the unpacked extension into Chrome
+
 **YOU WILL GET BANNED IF YOU USE THIS IN ONLINE**
 
