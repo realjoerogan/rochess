@@ -1,4 +1,4 @@
-#how to install for dummies
+# how to install for dummies
 
 1. unzip
 2. go to chrome://extensions/
